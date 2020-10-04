@@ -4,7 +4,7 @@ use Turbo C++ 3.2 to run the code.
 
 Features
 
- Uses mouse input to collect votes
+ Uses mouse input to collect votes\n
  Supports upto 6 candidates
  GUI using graphics.h
  Saves the Result in a text file (result.txt)
