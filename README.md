@@ -1,5 +1,5 @@
 # ArElection
-a oldschool C++ GUI (graphics.h) program for Student Council Elections, 
+an oldschool C++ GUI (graphics.h) program for Student Council Elections, 
 use Turbo C++ 3.2 to run the code.
 
 Features
