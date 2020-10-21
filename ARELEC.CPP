@@ -1,4 +1,4 @@
-// ************  E - VOTING PROGRAM VERSION 2.0 Developed by Arun Sri Krishna **************
+// ************  Student Council Election Program 2017 VERSION 2.0 Developed by Arun Sri Krishna **************
 
 //Header Files
 #include <iostream.h>
