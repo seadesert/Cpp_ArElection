@@ -10,7 +10,6 @@
 //Special characters
 #define keyEsc 27
 #define keyCr 13
-//Declaration
 void showmouseptr();
 int exit();
 int  initmouse();
@@ -48,7 +47,6 @@ void about();
 int menu(int select);
 int midx=320;
 int midy=239;
-//End of Declaration
 union REGS i,o;
 int vote;
 char cd1[20],cd2[20],cd3[20],cd4[20],cd5[20],cd6[20];
