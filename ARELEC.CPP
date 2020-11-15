@@ -1,5 +1,3 @@
-// ************  Student Council Election Program 2017 VERSION 2.0 Developed by Arun Sri Krishna **************
-
 //Header Files
 #include <iostream.h>
 #include <conio.h>
@@ -227,7 +225,7 @@ void about()
   outtextxy(140,186,"                    About");
   setcolor(WHITE);
   outtextxy(140,251,"Developer:          Arun Sri Krishna, XII Science");
-  outtextxy(140,314,"Developed for:      Demonstration School,Mysore");
+  outtextxy(140,314,"Developed for:      Demonstration School, Mysore");
   outtextxy(140,282,"Title:              ARGANISA E-VOTER ver.2.0");
   outtextxy(140,331,"Date:               19/07/2017 ");
   outtextxy(140,360,"Developed Using:    C++");
