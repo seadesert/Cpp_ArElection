@@ -3,7 +3,7 @@ Conduct Student council elections with a user-friendly ballot with mouse inputs 
 Many security features such as pass-key, sound-effect after each vote are implemented to prevent multiple votes</br>
 </br>
 Requires:</br>
-Borland C graphics.h package</br>
+Borland C graphics.h library</br>
 Turbo C</br>
 </br>
 Run:</br>
